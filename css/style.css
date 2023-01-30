@@ -33,9 +33,8 @@ img {
     border-color: #ffffff;
 }
 
-div>h2+p{
+body div{
     min-height: 125px;
-    padding: 20px;
     border-width: 3px;
     border-style: solid;
     border-color: #ffffff;
